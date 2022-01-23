@@ -1,0 +1,10 @@
+{
+  "files": {
+    "main.js": "/movie-app/static/js/main.eb600df3.js",
+    "index.html": "/movie-app/index.html",
+    "main.eb600df3.js.map": "/movie-app/static/js/main.eb600df3.js.map"
+  },
+  "entrypoints": [
+    "static/js/main.eb600df3.js"
+  ]
+}
